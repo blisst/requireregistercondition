@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <StrollingWild_RequireRegisterCondition>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends></depends>
+        </StrollingWild_RequireRegisterCondition>
+    </modules>
+</config>

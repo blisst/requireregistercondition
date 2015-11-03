@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <StrollingWild_RequireRegisterCondition>
+            <version>1.0.0</version>
+        </StrollingWild_RequireRegisterCondition>
+    </modules>
+    <global>
+    </global>
+</config>
